@@ -7,6 +7,6 @@ Email: lw@ncst.edu.cn
 
 2.Yazhi Liu, Jiye Zhang, Wei Li, Qianqian Wu, Pengmiao Li. Load Balancing Oriented Predictive Routing Algorithm for Data Center Networks. Future Internet, 13(2):54, 2021.
 
-### patent
+### Patent
 Wei Li, Na Liang, Zhiqi Qiu, Kaiyue Zhang, Xiaoyi Li, Chenghui Jia. An anti-collision computer case:China, CN 111077963 B, 2020.
 
