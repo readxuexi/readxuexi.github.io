@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Wei Li's Pages
 Wei Li received his MS degree in Computer Applications Technology from North China University of Science and Technology, Tangshan, China, in 2010. Currently, he is an associate professor at the College of Artificial Intelligence, North China University of Science and Technology, Tangshan, China. His research interests include machine learning and network security.
 
 Email: lw@ncst.edu.cn
